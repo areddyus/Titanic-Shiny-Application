@@ -1,6 +1,5 @@
 #server.R
 
-
 library(shiny)
 
 #For ggplot2 Graphics Library
