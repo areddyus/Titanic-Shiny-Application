@@ -6,7 +6,6 @@ trainData <- read.csv("./data/train.csv")
 
 dataset <- trainData
 
-
 shinyUI(fluidPage(
 	navbarPage("Coursera Developing Data Products MOOC"
 		# navbarMenu("Links ",
